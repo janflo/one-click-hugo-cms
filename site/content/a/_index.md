@@ -1,8 +1,5 @@
 ---
-values:
-  - heading: ttrhrh
-    text: dhfhgfdhf
-    imageUrl: img/products-full-width.jpg
+values: []
 heading: What we offer
 pricing:
   heading: Monthly subscriptions
