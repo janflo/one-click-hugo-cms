@@ -2,7 +2,7 @@
 values: []
 heading: Co My oferujemy
 pricing:
-  heading: Monthly subscriptions
+  heading: Monthly subscription 12
   description: We make it easy to make great coffee a part of your life. Choose
     one of our monthly subscription plans to receive great coffee at your
     doorstep each month. Contact us about more details and payment info.
