@@ -1,6 +1,6 @@
 ---
 values: []
-heading: What we offer
+heading: Co My oferujemy
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
