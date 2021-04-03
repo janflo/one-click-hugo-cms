@@ -1,5 +1,5 @@
 ---
-title: dodane 11
+title: dodane 22
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
